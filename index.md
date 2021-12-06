@@ -1,16 +1,13 @@
+# Data Science Portfolio
+
 ---
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Machine learning
 
-[Link to another page](./another-page.html).
+### Fraud Detection
 
-There should be whitespace between paragraphs.
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorised financial activity. This may include fraudulent credit card transactions, identity theft, cyber hacking, insurance scams and more.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Project 1
 
-Fraud detection
 
